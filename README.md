@@ -4,11 +4,16 @@ CRobot Miners are small pieces of software that aim to bridge the gap between no
 
 Whenever searches do not produce results CRobot Miners kick in and search the World Wide Web themselves thus enriching the entire knowledge
 
-# How can I contribute
+# How can I contribute?
 
 Fork from this repository and implement your own miner based on the sample provided. When you feel your miner is ready just drop us an email with a link for your repository.
 
 After validating your code against our quality standards we will include it on the product.
+
+# What do I need?
+
+Visual Studio 2017 to open the included .sln file.
+All dependencies should be loaded by nuget packages and the test application should run.
 
 # To know more about Infosistema CRobot
 https://www.infosistema.com/crobot
